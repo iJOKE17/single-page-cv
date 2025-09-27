@@ -30,3 +30,5 @@ Semantically correct HTML structure.
 - A favicon linked in the head section.
 
 source: https://roadmap.sh/projects/single-page-cv
+
+Deployed at: https://ijoke17.github.io/single-page-cv/
